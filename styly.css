@@ -1,0 +1,184 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color:#bddff8;
+}
+
+.row{
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+.row2{
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+.odkaz p a {
+    float: left;
+    text-decoration: none;
+    margin-right: 5px;
+    border-right: 1px solid #000;
+    width: 100px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.logo-img img{
+    width: 250px;
+    height: auto;
+}
+
+.vyh-pole{
+    margin-top: -64px;
+    width: 570px;
+    height: 40px;
+}
+
+.btn{
+    margin-left: 568px;
+    margin-top: -81px;
+}
+
+.btn p{
+    position: relative;
+    border: 2px solid #000;
+    width: 100px;
+    /*height: 30px;*/
+    padding: 9px;
+    text-align: center;
+    background-color: #2a4d7f;
+    font-weight: 700;
+    color: #fff;
+}
+
+.navigacion-menu ul{
+    margin-left: 0px;
+}
+
+.navigacion-menu ul li{
+    list-style-type: none;
+    cursor: pointer;
+    border: 1px solid #000;
+    width: 94px;
+    text-align: center;
+    padding: 15px;
+    float: left;
+    background-color: #3662a1;
+    margin-left: 0px;
+}
+
+.change{
+    background-color: #2a4d7f;
+}
+
+.navigacion-menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+.slider-nabytek img{
+    margin-left: 837px;
+    margin-top: -398px;
+}
+
+.vip-customer img{
+    width: 100%;
+    margin: 5px;
+    border: 2px solid #000;
+}
+
+.uprava{
+    height: 303px;
+}
+
+.vip-text{
+    text-align: center;
+}
+
+.footer{
+    border: 1px solid transparent;
+    padding:10px;
+    height: 170px;
+    margin-top: 5px;
+    background-color: #e5f2fc;
+}
+
+.footer ul li{
+    list-style-type: none;
+}
+
+.footer ul li a{
+    text-decoration: none;
+}
+
+/*----------------------------------------------------------------
+                                reklamace.php
+----------------------------------------------------------------*/
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*----------------------------------------------------------------
+                                mobily.php
+----------------------------------------------------------------*/
+
+.all-item{
+    background-color: #fff;
+    margin-top: 5px;
+}
+
+.mobile{
+    background-color: #fff;
+}
+
+
+
+.mobile-item p{
+    border: 1px solid #d6e1f1;
+    background-color: #f4f7fb;
+}
+
+.mobile-item p a{
+    vertical-align: middle;
+    display: table-cell;
+    padding: 0 20px;
+    min-height: 40px;
+    height: 40px;
+    color: #595959;
+    text-decoration: none;
+}
+
+/*----------------------------------------------------------------
+                                pocitace.php
+----------------------------------------------------------------*/
+
+.bacground{
+    background-color: #fff;
+}
+
+.item-text h3{
+    border-top: 1px solid #f4f7fb;;
+}
+
+.item-podtext p{
+    border: 1px solid #d6e1f1;
+    background-color: #f4f7fb;
+}
+
+.item-podtext p a{
+    vertical-align: middle;
+    display: table-cell;
+    padding: 0 20px;
+    /*min-height: 40px;*/
+    height: 40px;
+    color: #595959;
+    text-decoration: none;
+}
+
+
+
